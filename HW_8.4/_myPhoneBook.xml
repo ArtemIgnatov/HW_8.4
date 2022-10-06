@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MYPHONEBOOK>
+  <Person name="Игнатов Артем">
+    <Adress>
+      <Street Street="Бубновского" />
+      <HousNumber HousNumber="22" />
+      <FlatNumber FlatNumber="12" />
+    </Adress>
+    <Phones>
+      <MobilePhone MobilePhone="89898989898" />
+      <FlatPhone FlatPhone="123" />
+    </Phones>
+  </Person>
+  <Person name="Игнатова Ани">
+    <Adress>
+      <Street Street="Бубновского" />
+      <HousNumber HousNumber="22" />
+      <FlatNumber FlatNumber="12" />
+    </Adress>
+    <Phones>
+      <MobilePhone MobilePhone="7897987897987" />
+      <FlatPhone FlatPhone="878" />
+    </Phones>
+  </Person>
+</MYPHONEBOOK>
